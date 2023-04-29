@@ -1,5 +1,10 @@
 Getting Started
-First, run the development server:
+First, Clone
+
+Clone this repo by HTTPS or SSH
+
+
+After run the development server:
 
 npm run dev
 # or

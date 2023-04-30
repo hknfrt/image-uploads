@@ -1,6 +1,6 @@
 Getting Started
 
-First,
+First
 
 Clone this repo by HTTPS or SSH
 
